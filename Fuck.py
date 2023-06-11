@@ -1,3 +1,9 @@
-from FKING import awm
+import os, sys
 
-awm()
+print(" Update Chaking...")
+
+os.system(" git pull")
+
+import FKING
+
+
