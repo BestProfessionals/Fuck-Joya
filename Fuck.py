@@ -1,3 +1,3 @@
-import FKING from awm
+from FKING import awm
 
 awm()
